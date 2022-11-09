@@ -100,3 +100,15 @@ body {
 .menu-nested2 {
     top: 50%;
 }
+
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.img {
+    width: 300px;
+    margin-top: 40px;
+}
